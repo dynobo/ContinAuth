@@ -41,8 +41,6 @@ This project is structured after a setup proposed in a [tutorial on kdnuggets.co
 │   ├── external       <- Data from third party sources. (Extracted H-MOG CSV files)
 │   └── processed      <- The final, canonical data sets for modeling. (Transformed in HDF)
 │
-├── models             <- Trained and serialized models
-│
 ├── notebooks          <- Jupyter notebooks. Named after the chapter of the thesis,
 │                         where the results are discussed.
 │

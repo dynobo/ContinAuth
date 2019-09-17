@@ -21,7 +21,7 @@ Propose alternative variant of the original approach.<br>
 Dec. 2018 - Jun. 2019
 
 **Cite**<br>
-- H. Buech (2019). "Continuous Authentication using Inertial-Sensors of Smartphones and Deep Learning". Master thesis. Hochschule der Medien, Stuttgart. URN: [urn:nbn:de:bsz:900-opus4-65060](https://nbn-resolving.org/urn:nbn:de:bsz:900-opus4-65060) ([BibTex](https://raw.githubusercontent.com/dynobo/ContinAuth/master/CITATION_THESIS.bib))
+- H. Buech (2019). "Continuous Authentication using Inertial-Sensors of Smartphones and Deep Learning". Master thesis. Hochschule der Medien, Stuttgart. URN: [urn:nbn:de:bsz:900-opus4-65060](https://hdms.bsz-bw.de/frontdoor/index/index/docId/6506) ([BibTex](https://raw.githubusercontent.com/dynobo/ContinAuth/master/CITATION_THESIS.bib))
 - H. Buech (2019). ContinAuth, GitHub repository. URL: https://github.com/dynobo/ContinAuth ([BibTex](https://raw.githubusercontent.com/dynobo/ContinAuth/master/CITATION_REPO.bib))
 
 ## Background
